@@ -2,9 +2,9 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/dentelo)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/dentelo?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/dentelo?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/q0WvF0OVWVg?style=social)](https://youtu.be/q0WvF0OVWVg)
+ 
+screen_name=codewithsadee_)
+
 
   <br />
   <br />
@@ -36,18 +36,18 @@ To run **Dentelo** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/dentelo.git
+sudo git clone https://github.com/charandeep77/dentelo.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/dentelo.git
+git clone https://github.com/charandeep77/dentelo.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/
 
 ### License
 
